@@ -1,3 +1,6 @@
+/**
+* @author elhanannw
+*/
 class Departure extends Event {
   private Customer customer;
 
