@@ -1,7 +1,7 @@
 /**
  * The Seq<T> for CS2030S 
  *
- * @author Elhanan Neriah Wong
+ * @author elhanannw
  * @version CS2030S AY24/25 Semester 1
  */
 public class Seq<T extends Comparable<T>> { 
