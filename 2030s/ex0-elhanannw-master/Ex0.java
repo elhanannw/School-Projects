@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Monte Carlo simulation with the given argument and print
  * out the estimated pi value.
  *
- * @author Elhanan Neriah Wong
+ * @author elhanannw
  */
 
 class Ex0 {
