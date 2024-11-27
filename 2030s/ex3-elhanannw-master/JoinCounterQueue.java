@@ -1,3 +1,6 @@
+/**
+* @author elhanannw
+*/
 class JoinCounterQueue extends Event {
   private Customer customer;
   private Counter counters;
