@@ -1,5 +1,6 @@
 /**
  * This class encapsulates the arrival event in the coffee shop
+ * @author elhanannw
  **/
 class Arrival extends Event {
   private int customerId;
