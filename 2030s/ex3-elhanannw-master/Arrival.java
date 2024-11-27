@@ -1,3 +1,6 @@
+/**
+* @author elhanannw
+*/
 class Arrival extends Event {
   private Customer customer;
   private CoffeeShop shop;
