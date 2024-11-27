@@ -1,3 +1,6 @@
+/**
+* @author elhanannw
+*/
 class JoinShopQueue extends Event {
   private Customer customer;
   private CoffeeShop shop;
