@@ -1,5 +1,5 @@
 /**
- * @author A0308536B Elhanan Neriah Wong 
+ * @author elhanannw
  * @version CS2030S AY24/25 Semester 1
  */
 
