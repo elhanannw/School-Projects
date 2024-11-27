@@ -5,7 +5,7 @@
  * <p>The Circle class represents a circle with a center 
  * and a radius.
  *
- * @author Elhanan Neriah Wong 
+ * @author elhanannw
  */
 class Circle {
   /** The center of the circle. */
