@@ -7,7 +7,7 @@ import java.util.List;
  * The InfiniteList class that may contain an arbitrary number of
  * elements.  The class is a generic class.
  * 
- * @author Elhanan Neriah Wong (16A)
+ * @author elhanannw
  * @param <T> The type to be stored in the InfiniteList.
  */
 public class InfiniteList<T> {
