@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * This class implements a coffee shop simulation.
  *
- * @author dcsaysp
+ * @author elhanannw
  * @version CS2030S AY24/25 Semester 1
  */ 
 class CoffeeSimulation extends Simulation {
