@@ -1,3 +1,6 @@
+/**
+* @author elhanannw
+*/
 class ServiceEnd extends Event {
   private Customer customer;
   private Counter counter;
