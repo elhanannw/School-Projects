@@ -1,3 +1,6 @@
+/**
+* @author elhanannw
+*/
 class CoffeeShop {
   private int numOfCounters;
   private Seq<Counter> counters;
