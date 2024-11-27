@@ -6,7 +6,7 @@ import java.util.concurrent.CompletableFuture;
  * Encapsulates a parallel computation.
  * Uses CompletableFuture.
  *
- * @author: Elhanan Neriah Wong
+ * @author: elhanannw
  * @version: CS2030S AY24/25 Semester 1, Ex 8
  */
 public class Parallel extends Computation {
