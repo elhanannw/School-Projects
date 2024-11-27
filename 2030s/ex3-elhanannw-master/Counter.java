@@ -1,3 +1,6 @@
+/**
+* @author elhanannw
+*/
 class Counter implements Comparable<Counter> {
   private int id;
   private boolean available;
