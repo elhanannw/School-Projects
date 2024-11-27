@@ -1,3 +1,6 @@
+/**
+* @author elhanannw
+*/
 class Customer {
   private int id;
   private double arrivalTime;
