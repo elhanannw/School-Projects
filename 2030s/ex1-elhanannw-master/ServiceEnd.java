@@ -1,5 +1,5 @@
 /**
- * This class encapsulates the arrival event in the coffee shop
+ * @author elhanannw
  **/
 class ServiceEnd extends Event {
   private int customerId;
