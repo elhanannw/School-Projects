@@ -1,3 +1,6 @@
+/**
+* @author elhanannw
+*/
 class JoinQueue extends Event {
   private Customer customer;
   private Queue queue;
