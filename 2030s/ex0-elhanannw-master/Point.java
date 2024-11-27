@@ -4,7 +4,7 @@
  *
  * <p>The Point class encapsulates a point on a 2D plane.
  *
- * @author Elhanan Neriah Wong
+ * @author elhanannw
  */
 
 class Point {
