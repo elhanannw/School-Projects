@@ -1,3 +1,6 @@
+/**
+* @author elhanannw
+*/
 class Order {
   private int orderId;
   private String orderType;
